@@ -2,7 +2,7 @@
 
 > Single-container, self-hostable fork of [Readest](https://github.com/readest/readest) — Supabase + R2/S3 replaced with SQLite + local filesystem, Pro/paywall removed, signup disabled, per-user AES-GCM encrypted vault, quota enforce, proxy toggle.
 
-## 💬 NodeByte 社区（最重要）
+## 💬 NodeByte 社区
 
 > **所有问题、建议、讨论请优先前往 NodeByte 社区**：https://nodebyte.cn
 > 这是 Readest Lite 的官方社区，作者亲自在社区回答问题、收集反馈、发布更新。
